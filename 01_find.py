@@ -12,7 +12,7 @@
 
 class Solution:
     # array 二维列表
-    def Find(self, target, array):
+    def find(self, target, array):
         # write code here
         if len(array) == 0 or len(array[0]) == 0:
             return False
@@ -32,5 +32,5 @@ if __name__ == '__main__':
     target = 10
     array = [[1, 2, 3, 4], [2, 3, 4, 5], [3, 4, 5, 6], [4, 5, 6, 7]]
     solution = Solution()
-    res = solution.Find(target, array)
+    res = solution.find(target, array)
     print(res)
