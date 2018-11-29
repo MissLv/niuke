@@ -1,4 +1,4 @@
-[1.	二维数组中的查找]('/MissLv/niuke/blob/master/01_find.py\n',)
+[1.	二维数组中的查找]('MissLv/niuke/blob/master/01_find.py',)
 
 [2.	替换空格]('/MissLv/niuke/blob/master/02_replaceSpace.py\n',)
 
